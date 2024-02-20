@@ -15,3 +15,5 @@ function greet2(name: string) {
 }
 
 console.log(greet2('World2'));
+
+export { greet, greet2 };
